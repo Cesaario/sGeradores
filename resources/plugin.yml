@@ -1,0 +1,8 @@
+name: sGeradores
+main: me.soldado.geradores.Main
+version: 1.0
+author: Soldado_08
+commands:
+   gerador:
+      description: Pegar um gerador.
+      usage: /<command>
